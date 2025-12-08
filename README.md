@@ -11,3 +11,4 @@ Tech Stack: Python, Pandas, Matplotlib, Seaborn/Plotly
 Related Syllabus Units: Unit I (Data Science Basics), Unit III (Data Preparation & Visualization)
 
 Dataset Source: Kaggle (COVID-19 India datasets)
+sample dataset used- Covid_India_Sample_Dataset.csv
