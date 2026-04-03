@@ -48,10 +48,10 @@ This project presents a comprehensive analysis of COVID-19 data using data analy
 ![Main Dashboard](image/main_dashboard.png)
 
 ### 🔹 Trend Visualization
-![Trend](screenshot2.png)
+![Trend](image/trend.png)
 
 ### 🔹 ML Prediction
-![Prediction](screenshot3.png)
+![Prediction](image/prediction.png)
 
 
 ## 🧠 Key Insights
