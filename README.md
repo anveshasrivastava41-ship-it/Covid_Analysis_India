@@ -45,7 +45,7 @@ This project presents a comprehensive analysis of COVID-19 data using data analy
 ## 📸 Dashboard Preview
 
 ### 🔹 Main Dashboard
-![Main Dashboard](screenshot1.png)
+![Main Dashboard](image/main_dashboard.png)
 
 ### 🔹 Trend Visualization
 ![Trend](screenshot2.png)
