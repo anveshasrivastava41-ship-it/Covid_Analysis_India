@@ -6,7 +6,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-st.title("COVID-19 Analytics & Prediction Dashboard")
+st.title(" 🌍 COVID-19 Analytics & Prediction Dashboard")
 st.markdown("### Data Analysis • Machine Learning • Interactive Dashboard") 
 
 st.sidebar.markdown("## 📊 COVID Dashboard Controls")
