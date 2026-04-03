@@ -9,6 +9,7 @@ This project presents a comprehensive analysis of COVID-19 data using data analy
 ## 🚀 Live Dashboard
 
 🔗 *[https://covid-analytics-dashboard.streamlit.app/]*
+✨ Features an interactive dashboard with real-time filtering and ML-based predictions.
 
 ---
 
